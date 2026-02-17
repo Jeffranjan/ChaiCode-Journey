@@ -7,6 +7,7 @@
 ---
 
 ## Repository Navigation
+
 What is included in this repository?
 
 - **Classshots** : Memorable momements captured in the classs
@@ -14,3 +15,8 @@ What is included in this repository?
 - **Notes** : Notes written by myself for each class
 - **Peer Projects** : Peer projects are a fun way to create build and work on various projects alongside our fellow peers. We get to check an evaluate each other's work
 - **Practice** : Raw coding for sole purpose of writing, iterating, learning, breaking and debugging
+
+---
+
+> My Blogs are not included in this Repository as I've hosted them on my personal portfolio wbsite
+> Check it out here - [My Blogs](https://ranjangupta.online/blogs)
