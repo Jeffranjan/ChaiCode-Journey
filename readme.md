@@ -18,5 +18,4 @@ What is included in this repository?
 
 ---
 
-> My Blogs are not included in this Repository as I've hosted them on my personal portfolio wbsite
-> Check it out here - [My Blogs](https://ranjangupta.online/blogs)
+> My Blogs are not included in this Repository as I've hosted them on my [Personal Portfolio Website](https://ranjangupta.online/blogs)
