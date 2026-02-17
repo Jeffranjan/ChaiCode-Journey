@@ -1,4 +1,4 @@
-# 🧑‍💻Cohort Jounrey
+# 🧑‍💻Cohort Journey
 
 ![Web Dev Cohort](https://chaicode.com/assets/cohort-webdev-light-C96Mhvf6.webp)
 
@@ -19,4 +19,18 @@ What is included in this repository?
 ---
 
 > [!NOTE]
-> Writing Blogs were an assingment given to us as peer projects in the Cohort. They are not included in this Repository as I've hosted them on my [Personal Portfolio Website](https://ranjangupta.online/blogs)
+> Writing Blogs were an assingment given to us as peer project in the Cohort. They are not included in this Repository as I've hosted them on my [Personal Portfolio Website](https://ranjangupta.online/blogs)
+
+---
+
+## What's the purpose of this repository?
+
+- To make reasonable & meaningful commits every single day
+- To keep the repository up-to-date as the cohort progresess
+
+---
+
+## Personal Goal
+
+- To learn, implement, practice & iterate
+- To not give up even when things get messy (_You aren't going downhill, how can it be easy?_)
