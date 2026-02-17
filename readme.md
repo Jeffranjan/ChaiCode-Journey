@@ -26,7 +26,7 @@ What is included in this repository?
 ## What's the purpose of this repository?
 
 - To make reasonable & meaningful commits every single day
-- To keep the repository up-to-date as the cohort progresess
+- To keep the repository up-to-date as the cohort progresses
 
 ---
 
@@ -34,3 +34,5 @@ What is included in this repository?
 
 - To learn, implement, practice & iterate
 - To not give up even when things get messy (_You aren't going downhill, how can it be easy?_)
+
+---
