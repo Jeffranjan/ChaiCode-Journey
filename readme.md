@@ -18,4 +18,5 @@ What is included in this repository?
 
 ---
 
-> My Blogs are not included in this Repository as I've hosted them on my [Personal Portfolio Website](https://ranjangupta.online/blogs)
+> [!NOTE]
+> Writing Blogs were an assingment given to us as peer projects in the Cohort. They are not included in this Repository as I've hosted them on my [Personal Portfolio Website](https://ranjangupta.online/blogs)
