@@ -8,7 +8,7 @@
 
 ## Repository Navigation
 
-What is included in this repository?
+What is included in this repository?    
 
 - **Classshots** : Memorable momements captured in the classs
 - **Github Classroom Assingments** : Every assingment given to us in Github Classroom organized
