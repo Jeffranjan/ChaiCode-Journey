@@ -53,24 +53,42 @@
 
 // console.log(getThaliStats({totalthalis }));
 
-export function searchThaliMenu(thalis, query) {
-  if (Array.isArray(thalis) && typeof query === "string") {
-    // 1. Lowercase the query once
-    const lowerQuery = query.toLowerCase();
+// export function searchThaliMenu(thalis, query) {
+//   if (Array.isArray(thalis) && typeof query === "string") {
+//     // 1. Lowercase the query once
+//     const lowerQuery = query.toLowerCase();
 
-    const filteredThali = thalis.filter((t) => {
-      // 2. Check the name
-      const nameMatches = t.name.toLowerCase().includes(lowerQuery);
+//     const filteredThali = thalis.filter((t) => {
+//       // 2. Check the name
+//       const nameMatches = t.name.toLowerCase().includes(lowerQuery);
 
-      // 3. Check if ANY item in the array matches
-      const itemsMatch = t.items.some((item) =>
-        item.toLowerCase().includes(lowerQuery),
-      );
+//       // 3. Check if ANY item in the array matches
+//       const itemsMatch = t.items.some((item) =>
+//         item.toLowerCase().includes(lowerQuery),
+//       );
 
-      return nameMatches || itemsMatch;
-    });
+//       return nameMatches || itemsMatch;
+//     });
 
-    return filteredThali;
-  }
-  return [];
-}
+//     return filteredThali;
+//   }
+//   return [];
+// }
+
+// const thali = {
+//   name: "Rajasthani Thali",
+//   items: ["dal baati", "churma", "papad"],
+//   price: 250,
+//   isVeg: true,
+// };
+
+// function generateThaliReceipt(customerName, thalis) {
+//   if (
+//     Array.isArray(thalis) &&
+//     thalis.length > 0 &&
+//     typeof customerName === "string"
+//   ) {
+//     const name = thalis.map(() => {});
+//   }
+//   return "";
+// }
