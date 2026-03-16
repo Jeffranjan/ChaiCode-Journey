@@ -4,6 +4,7 @@
 // const threeEmptySeats = Array(3);
 // console.log(threeEmptySeats.length);
 // const passenger = Array("Veer", "Ayush", "Ravi");
+// console.log(passenger);
 
 // const singlePassenger = Array.of(3);
 // console.log(singlePassenger);
@@ -18,19 +19,18 @@
 // console.log(tempTrain);
 
 // push, pop, shift, unshift, splice
-//
+
 // // concat, slice, flat (React, redux)
 
 // const trainCopy = wholeTrain.slice()
-//
+
 // Searching: indexOf, includes, find, findIndex
-//
 
 // console.log(typeof []);
 // console.log(Array.isArray([]));
 // console.log(Array.isArray("Ravi"));
 
-//key points
+// key points
 // 1. [] Array(4)
 // 2. array are 0 based
 // 3. Mutating methods: push pop, shift, unshift, splice

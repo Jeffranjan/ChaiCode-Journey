@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To-Do</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="app">
+      <h1>To-Do List |   List Creator</h1>
+      <h2>
+        This is a mini project for the
+        <a href="https://chaicode.com/cohorts/web-dev">ChaiCode</a> Cohort
+      </h2>
+      <p>
+        The jokes are fetched from
+        <a
+          href="https://freeapi.hashnode.space/api-guide/apireference/getQuotes"
+          >freeapi.app</a
+        >
+        by <strong>ChaiCode</strong> You can click on the joke to remove them,
+        and then add your own to-do items.
+      </p>
+
+      <div class="input-row">
+        <input
+          id="todoInput"
+          placeholder="What do you need to do?"
+          type="text"
+        />
+        <button id="btn" type="button">Add</button>
+      </div>
+      <ul id="todoContainer" class="todo-list"></ul>
+    </div>
+    <p class="made-by">Made by Ranjan Gupta</p>
+
+    <script src="script.js"></script>
+  </body>
+</html>
