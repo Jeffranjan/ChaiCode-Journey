@@ -5,10 +5,16 @@
 // console.log(calculateDiscount(100, 20));
 
 // Create your variables
-let name = "Alice";
-let age = 25;
-let city = "Price";
+// let name = "Alice";
+// let age = 25;
+// let city = "Price";
 
-// Log each with descriptive labels
+// // Log each with descriptive labels
 
-console.log(`Name: ${name}, Age: ${age}, City: ${city}`)
+// console.log(`Name: ${name}, Age: ${age}, City: ${city}`)\
+
+function calculateRectangleArea(width, height) {
+  return (area = width * height);
+}
+
+console.log(calculateRectangleArea(15, 10));
